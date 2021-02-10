@@ -54,7 +54,7 @@ for i in range(K):
 
 **To find the most optimal one**, the first k-center needs to be optimized. Earlier we had selected it randomly. Now, we would find the objective function for all the input points as first and the final objective value would be the minimum among all the k-centers chosen.
 
-[Link to the Solution Notebook](./4/question_4.ipynb)
+[Link to the Solution Notebook](https://nbviewer.jupyter.org/github/mshamir11/datascience-assignments/blob/master/Assignments%201/4/question_4.ipynb#first-bullet)
 #### Results
 - The Approximation Factor is coming about to be 1.3966834349636552 for k=2 and 1.4667634183920994 for k=4.
 - Theoretically the Approximation Factor should be less than or equal to 2.
